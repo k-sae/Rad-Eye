@@ -19,6 +19,7 @@ android {
     }
     productFlavors {
     }
+
 }
 
 dependencies {
@@ -27,7 +28,7 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     compile 'com.android.support:appcompat-v7:25.2.0'
-    provided 'com.android.support.constraint:constraint-layout:1.0.0'
+    compile 'com.android.support.constraint:constraint-layout:1.0.1'
     compile 'com.android.support:design:25.2.0'
     testCompile 'junit:junit:4.12'
 }
