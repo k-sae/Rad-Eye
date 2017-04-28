@@ -1,0 +1,16 @@
+implement .....
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch feat/prop
+# Your branch and 'origin/develop' have diverged,
+# and have 2 and 1 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# Changes to be committed:
+#	new file:   app/src/main/java/com/p4f/kareem/rad_eye/HumanMap.java
+#	new file:   app/src/main/java/com/p4f/kareem/rad_eye/drawing/negative_effect/NegativeEffect.java
+#	new file:   app/src/main/java/com/p4f/kareem/rad_eye/humanMapListener/HumanMapClickListener.java
+#	new file:   app/src/main/java/com/p4f/kareem/rad_eye/humanMapListener/OnNegativeEffectClickListener.java
+#	modified:   app/src/main/java/com/p4f/kareem/rad_eye/human_map/properties/HumanNegativeEffect.java
+#	new file:   app/src/main/java/com/p4f/kareem/rad_eye/utility/RadiationList.java
+#
